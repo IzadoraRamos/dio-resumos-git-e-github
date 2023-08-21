@@ -5,6 +5,6 @@ Repositorio para reusmos sobre Git e GitHub
 ## 📚 Documentos 
 [documentos gitHub](https://docs.github.com/pt) 
 
-| aulas | resumos |
+| aulas1 | resumos |
 |--------|-------|
 |testanto a tabela |testando o commit |
