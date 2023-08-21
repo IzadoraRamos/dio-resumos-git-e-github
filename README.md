@@ -7,4 +7,4 @@ Repositorio para reusmos sobre Git e GitHub
 
 | aulas | resumos |
 |--------|-------|
-|testanto a tabela |testando os resumos |
+|testanto a tabela |testando o commit |
